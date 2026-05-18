@@ -47,6 +47,9 @@ This educational project showcases two key React component patterns:
 - `npm run preview` - Preview production build locally
 - `npm run lint` - Run ESLint
 
+## Demo
+🚀 Live Demo: [https://hillel-full-stack-react-stateful-stateless.vercel.app](https://hillel-full-stack-react-stateful-stateless.vercel.app)
+
 ## Tech Stack
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
